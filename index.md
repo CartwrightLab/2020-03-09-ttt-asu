@@ -16,6 +16,7 @@ locations:
   - venue: "The Biodesign Institute at Arizona State University"
     address: "Biodesign Building A L1-10/14 (the classroom on the basement level)"
     latlng: "33.419183, -111.928348"
+venue: "The Biodesign Institute at Arizona State University"
 
 ---
 
